@@ -10,5 +10,5 @@
 
 **Position**    : 1인 개발
 
-**Library**     : jQuery, Bootstrap
+**Library**     : jQuery, Ajax,Bootstrap
               
